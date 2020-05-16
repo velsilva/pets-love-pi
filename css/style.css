@@ -1,6 +1,6 @@
 body{
   background: #EDEBAB;
-  padding-top: 86px;
+  padding-top: 146px;
 }
 .box-shadow{
   box-shadow: 0 2px 4px 0px rgb(0,0,0,.05),
@@ -13,6 +13,7 @@ body{
 }
 .cor-barra-navegacao{
   background-color: #554E4C;
+  z-index: 100;
 }
 .cor-link-navegacao{
   color: #FFFFFF !important;
@@ -21,8 +22,8 @@ body{
   background-color: #E5E4CF;
 }
 .fundo-patinhas{
-  background-image: url("../img/patinhas.jpg");
-  background-size: 2px;
+  background-image: url("../img/cabecalho-patas.jpg");
+  height: 60px;
 }
 .imagem-logo-circulo{
   background-color: #EDEBAB;

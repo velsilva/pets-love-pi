@@ -36,3 +36,17 @@ body{
 .contraste-img-carrosel{
   filter: contrast(2);
 }
+.cor-coracao-adoteme{
+  color: #ba0001;
+}
+@media(max-width: 767px){
+  #barra-de-navegacao{
+    position: relative;
+  }
+  body{
+    padding-top: 0;
+  }
+  #carrosel-pets .carousel-caption h1{
+    font-size: 1.5rem;
+  }
+}

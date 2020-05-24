@@ -61,3 +61,11 @@ body{
 .cor-links{
   color: #D6D039;
 }
+.texto-carrosel-centro{
+  position: relative;
+  transform: translateY(-18.5rem);
+  margin: auto;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}

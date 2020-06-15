@@ -35,6 +35,7 @@ body{
 }
 .contraste-img-carrosel{
   filter: contrast(2);
+  filter: brightness(0.4);
 }
 .cor-coracao-adoteme{
   color: #ba0001;
